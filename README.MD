@@ -5,17 +5,18 @@
 👋 Hi there, I'm <a href="http://www.amishagupta.com/" target="_blank" rel="noreferrer">Amisha</a> 
 </h2>
 
-🏫   Learning Data Science, and Deep Neural Networks at UC Berkeley
-👨‍🏫   Teaching Cal's intro Data science course, Data 8, as a lab assitant 
-💻   Designing curriculum for introductory data sciene courses as a Software Developer at DSUS
-🎤   Making music whenever and wherever I can!
+### 🏫   Learning Data Science, and Deep Neural Networks at UC Berkeley
+### 👨‍🏫   Teaching Cal's intro Data science course, Data 8, as a lab assitant 
+### 💻   Designing curriculum for introductory data sciene courses as a Software Developer at DSUS
+### 🎤   Making music whenever and wherever I can!
 
 ### Langauges: 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-![📈 GitHub stats](https://github-readme-stats.vercel.app/api?username=amishaguptaberk&show_icons=true&theme=tokyonight)
+![Amisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=amishaguptaberk&theme=monokai&show_icons=true)
+
 
 
 
@@ -28,6 +29,3 @@
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-
-
-# amishaguptaberk
