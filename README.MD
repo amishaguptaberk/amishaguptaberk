@@ -6,8 +6,8 @@
 </h2>
 
 * 🏫   Learning Data Science, and Deep Neural Networks at UC Berkeley
-* 👨‍🏫   Teaching Cal's intro Data science course, Data 8, as a lab assitant 
-* 💻   Designing curriculum for introductory data sciene courses as a Software Developer at DSUS
+* 👨‍🏫   Teaching Cal's intro Data Science course, Data 8, as a lab assistant 
+* 💻   Designing curriculum for Cal's data science connector courses as a Software Developer at DSUS
 * 🎤   Making music whenever and wherever I can!
 
 #### Langauges: 
