@@ -5,10 +5,10 @@
 👋 Hi there, I'm <a href="http://www.amishagupta.com/" target="_blank" rel="noreferrer">Amisha</a> 
 </h2>
 
-### 🏫   Learning Data Science, and Deep Neural Networks at UC Berkeley
-### 👨‍🏫   Teaching Cal's intro Data science course, Data 8, as a lab assitant 
-### 💻   Designing curriculum for introductory data sciene courses as a Software Developer at DSUS
-### 🎤   Making music whenever and wherever I can!
+## 🏫   Learning Data Science, and Deep Neural Networks at UC Berkeley
+## 👨‍🏫   Teaching Cal's intro Data science course, Data 8, as a lab assitant 
+## 💻   Designing curriculum for introductory data sciene courses as a Software Developer at DSUS
+## 🎤   Making music whenever and wherever I can!
 
 ### Langauges: 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
