@@ -33,5 +33,5 @@
 <a href="http://www.amishagupta.com/"><img align="left" src="https://raw.githubusercontent.com/amishaguptaberk/amishaguptaberk/main/images/youtube.svg" alt="Amisha Gupta | YouTube" width="21px"/></a>
 
 </br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+- 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
 
