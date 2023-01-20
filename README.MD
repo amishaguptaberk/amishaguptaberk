@@ -5,12 +5,12 @@
 👋 Hi there, I'm <a href="http://www.amishagupta.com/" target="_blank" rel="noreferrer">Amisha</a> 
 </h2>
 
-## 🏫   Learning Data Science, and Deep Neural Networks at UC Berkeley
-## 👨‍🏫   Teaching Cal's intro Data science course, Data 8, as a lab assitant 
-## 💻   Designing curriculum for introductory data sciene courses as a Software Developer at DSUS
-## 🎤   Making music whenever and wherever I can!
+* 🏫   Learning Data Science, and Deep Neural Networks at UC Berkeley
+* 👨‍🏫   Teaching Cal's intro Data science course, Data 8, as a lab assitant 
+* 💻   Designing curriculum for introductory data sciene courses as a Software Developer at DSUS
+* 🎤   Making music whenever and wherever I can!
 
-### Langauges: 
+#### Langauges: 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -26,7 +26,7 @@
 
 
 
-### 🤝 Contact me:
+#### 🤝 Contact me:
 
 <a href="https://www.linkedin.com/in/amishagupta9255/"><img align="left" src="https://raw.githubusercontent.com/amishaguptaberk/amishaguptaberk/main/images/linkedin.svg" alt="Amisha Gupta | LinkedIn" width="21px"/></a>
 
