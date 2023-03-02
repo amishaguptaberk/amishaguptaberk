@@ -28,7 +28,7 @@
 
 #### 🤝 Contact me:
 
-<a href="https://www.linkedin.com/in/amishagupta9255/"><img align="left" src="https://raw.githubusercontent.com/amishaguptaberk/amishaguptaberk/main/images/linkedin.svg" alt="Amisha Gupta | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/amishagupta9255/"><img align="left" src="https://user-images.githubusercontent.com/112449798/222351095-56353d09-2b54-489c-af6f-c68ea4c9cd70.png" alt="Amisha Gupta | LinkedIn" width="21px"/></a>
 
 <a href="http://www.amishagupta.com/"><img align="left" src="https://raw.githubusercontent.com/amishaguptaberk/amishaguptaberk/main/images/youtube.svg" alt="Amisha Gupta | YouTube" width="21px"/></a>
 
