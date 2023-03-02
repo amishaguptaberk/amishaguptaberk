@@ -2,15 +2,18 @@
 [![Github](https://img.shields.io/github/followers/amishaguptaberk?label=Follow&style=social)](https://github.com/amishaguptaberk)
 ![](https://visitor-badge.laobi.icu/badge?page_id=amishaguptaberk.amishaguptaberk)
 <h2 align="left">
-👋 Hi there, I'm <a href="http://www.amishagupta.com/" target="_blank" rel="noreferrer">Amisha</a> 
+## 👋 Hi there, I'm <a href="http://www.amishagupta.com/" target="_blank" rel="noreferrer">Amisha</a> 
 </h2>
 
 * 🏫   Learning Data Science, and Deep Neural Networks at UC Berkeley
+
 * 👨‍🏫   Teaching Cal's intro Data Science course, Data 8, as a lab assistant 
+
 * 💻   Designing curriculum for Cal's data science connector courses as a Software Developer at DSUS
+
 * 🎤   Making music whenever and wherever I can!
 
-#### Langauges: 
+### Languages: 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
@@ -33,8 +36,7 @@
 
 
 
-
-#### 🤝 Contact me:
+### 🤝 Contact me:
 
 <a href="https://www.linkedin.com/in/amishagupta9255/"><img align="left" src="https://user-images.githubusercontent.com/112449798/222351095-56353d09-2b54-489c-af6f-c68ea4c9cd70.png" alt="Amisha Gupta | LinkedIn" width="30px"/></a>
 
