@@ -2,16 +2,17 @@
 [![Github](https://img.shields.io/github/followers/amishaguptaberk?label=Follow&style=social)](https://github.com/amishaguptaberk)
 ![](https://visitor-badge.laobi.icu/badge?page_id=amishaguptaberk.amishaguptaberk)
 <h2 align="left">
-##👋 Hi there, I'm <a href="http://www.amishagupta.com/" target="_blank" rel="noreferrer">Amisha</a> 
+
+👋🏽 Hi there, I'm <a href="http://www.amishagupta.com/" target="_blank" rel="noreferrer">Amisha</a> 
 </h2>
 
 * 🏫   Learning Data Science, and Deep Neural Networks at UC Berkeley
 
 * 👨‍🏫   Teaching Cal's intro Data Science course, Data 8, as a lab assistant 
 
-* 💻   Designing curriculum for Cal's data science connector courses as a Software Developer at DSUS
+* 📊  Designing curriculum for Cal's data science connector courses as a Modules Developer at DSUS
 
-* 🎤   Making music whenever and wherever I can!
+* 🎤 🎶  Making music whenever and wherever I can!
 
 ### Languages: 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
