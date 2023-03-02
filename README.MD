@@ -14,6 +14,15 @@
 
 * 🎤 🎶  Making music whenever and wherever I can!
 
+
+
+### 🤝 Connect with me:
+
+<a href="https://www.linkedin.com/in/amishagupta9255/"><img align="left" src="https://user-images.githubusercontent.com/112449798/222351095-56353d09-2b54-489c-af6f-c68ea4c9cd70.png" alt="Amisha Gupta | LinkedIn" width="30px"/></a>
+
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZXhxsjwDbfHbRcPQgmbfgQFCGTxvDFFjGhdPBkBjmGxhRTtFjpGSXHNFrJBNFBJdMcHSV"><img align="left" src= "https://user-images.githubusercontent.com/112449798/222352958-709b49e6-2171-41c3-bba1-f622075051d1.png" alt="Amisha Gupta | Gmail" width="40px"/></a>
+
+
 ### Languages: 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -35,13 +44,6 @@
 
 ![Amisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=amishaguptaberk&theme=monokai&show_icons=true)
 
-
-
-### 🤝 Contact me:
-
-<a href="https://www.linkedin.com/in/amishagupta9255/"><img align="left" src="https://user-images.githubusercontent.com/112449798/222351095-56353d09-2b54-489c-af6f-c68ea4c9cd70.png" alt="Amisha Gupta | LinkedIn" width="30px"/></a>
-
-<a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZXhxsjwDbfHbRcPQgmbfgQFCGTxvDFFjGhdPBkBjmGxhRTtFjpGSXHNFrJBNFBJdMcHSV"><img align="left" src= "https://user-images.githubusercontent.com/112449798/222352958-709b49e6-2171-41c3-bba1-f622075051d1.png" alt="Amisha Gupta | Gmail" width="40px"/></a>
 
 </br>
 </br> 
