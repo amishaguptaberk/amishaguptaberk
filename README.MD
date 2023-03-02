@@ -30,7 +30,7 @@
 
 <a href="https://www.linkedin.com/in/amishagupta9255/"><img align="left" src="https://user-images.githubusercontent.com/112449798/222351095-56353d09-2b54-489c-af6f-c68ea4c9cd70.png" alt="Amisha Gupta | LinkedIn" width="30px"/></a>
 
-<a href="http://www.amishagupta.com/"><img align="left"src=https://user-images.githubusercontent.com/112449798/222351569-da6e8c90-6ab5-4a52-a99e-231b16601b4d.jpg" alt="Amisha Gupta | YouTube" width="40px"/></a>
+<a href="http://www.amishagupta.com/"><img align="left"src= "https://user-images.githubusercontent.com/112449798/222351569-da6e8c90-6ab5-4a52-a99e-231b16601b4d.jpg" alt="Amisha Gupta | YouTube" width="40px"/></a>
 
 </br>
 </br> 
