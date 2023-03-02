@@ -20,7 +20,7 @@
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZXhxsjwDbfHbRcPQgmbfgQFCGTxvDFFjGhdPBkBjmGxhRTtFjpGSXHNFrJBNFBJdMcHSV"><img align="left" src= "https://user-images.githubusercontent.com/112449798/222352958-709b49e6-2171-41c3-bba1-f622075051d1.png" alt="Amisha Gupta | Gmail" width="40px"/></a>
 <\br>
 
-####Languages: 
+#### Languages: 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
