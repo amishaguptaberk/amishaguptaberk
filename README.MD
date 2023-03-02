@@ -2,7 +2,7 @@
 [![Github](https://img.shields.io/github/followers/amishaguptaberk?label=Follow&style=social)](https://github.com/amishaguptaberk)
 ![](https://visitor-badge.laobi.icu/badge?page_id=amishaguptaberk.amishaguptaberk)
 <h2 align="left">
-## 👋 Hi there, I'm <a href="http://www.amishagupta.com/" target="_blank" rel="noreferrer">Amisha</a> 
+##👋 Hi there, I'm <a href="http://www.amishagupta.com/" target="_blank" rel="noreferrer">Amisha</a> 
 </h2>
 
 * 🏫   Learning Data Science, and Deep Neural Networks at UC Berkeley
