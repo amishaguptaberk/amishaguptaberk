@@ -5,6 +5,9 @@
 👋 Hi there, I'm <a href="http://www.amishagupta.com/" target="_blank" rel="noreferrer">Amisha</a> 
 </h2>
 
+I'm a first-year at UC Berkeley double majoring in Neurobiology and Computer Science! I'm excited to be part of era invlovnig the revolution of AI in Healthcare, and am passionate about using Machine Learnign and Deep Learning to transform patient outcomes. I am passionate about enabling enhanced medical decision-making powered by machine learning to build the treatments of the future.
+
+
 * 🏫   Learning Data Science, and Deep Neural Networks at UC Berkeley
 * 👨‍🏫   Teaching Cal's intro Data Science course, Data 8, as a lab assistant 
 * 💻   Designing curriculum for Cal's data science connector courses as a Software Developer at DSUS
@@ -23,15 +26,22 @@
 
 ![Amisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=amishaguptaberk&theme=monokai&show_icons=true)
 
+#### 🎯 I hope to...
+
+- Gain more industry experience in summer 2023 -- I want to take advantage of the super exciting time in tech we're living in. 
+  If you're open to hire, I'd be so grateful if you'd reach out.
+- Build out a couple ideas with my friends!
+- Travel to Colombo, Sri Lanka to visit my family soon.
+- Learn how to oil paint.
 
 
-
-#### 🤝 Contact me:
+####  I would love to talk to you !
 
 <a href="https://www.linkedin.com/in/amishagupta9255/"><img align="left" src="https://user-images.githubusercontent.com/112449798/222351095-56353d09-2b54-489c-af6f-c68ea4c9cd70.png" alt="Amisha Gupta | LinkedIn" width="21px"/></a>
 
 <a href="http://www.amishagupta.com/"><img align="left" src="https://raw.githubusercontent.com/amishaguptaberk/amishaguptaberk/main/images/youtube.svg" alt="Amisha Gupta | YouTube" width="21px"/></a>
 
+Let's work together and build something great!
+
 </br>
 - 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
-
