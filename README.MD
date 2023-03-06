@@ -33,7 +33,7 @@ I'm a first-year at UC Berkeley double majoring in Neurobiology and Computer Sci
 
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZXhxsjwDbfHbRcPQgmbfgQFCGTxvDFFjGhdPBkBjmGxhRTtFjpGSXHNFrJBNFBJdMcHSV"><img align="left" src= "https://user-images.githubusercontent.com/112449798/222352958-709b49e6-2171-41c3-bba1-f622075051d1.png" alt="Amisha Gupta | Gmail" width="40px"/></a>
 
-<a href="https://www.researchgate.net/profile/Amisha-Gupta-13"><img align="left" src= "https://user-images.githubusercontent.com/112449798/222996889-126403cd-eaf9-457a-adb0-27d5fa90f4f0.png" alt="Amisha Gupta | Gmail" width="40px"/></a>
+<a href="https://www.researchgate.net/profile/Amisha-Gupta-13"><img align="left" src= "https://user-images.githubusercontent.com/112449798/222997107-68dc36b8-676c-4eb7-b697-d42b1cd8ff1c.png" alt="Amisha Gupta | Gmail" width="60%" height = "30%"/></a>
 
 Let's work together and build something great!
 
