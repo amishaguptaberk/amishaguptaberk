@@ -6,7 +6,7 @@
 👋🏽 Hi there, I'm <a href="http://www.amishagupta.com/" target="_blank" rel="noreferrer">Amisha</a> 
 </h2>
 
-I'm a first-year at UC Berkeley double majoring in Neurobiology and Computer Science! I'm excited to be part of era invlovnig the revolution of AI in Healthcare, and am passionate about using Machine Learning and Deep Learning to transform patient outcomes. I am passionate about enabling enhanced medical decision-making powered by machine learning to build the treatments of the future.
+I'm a first-year at UC Berkeley double majoring in Neurobiology and Computer Science! I'm excited to be part of era involving the revolution of AI in Healthcare, and am passionate about using Machine Learning and Deep Learning to transform patient outcomes. I am passionate about enabling enhanced medical decision-making powered by machine learning to build the treatments of the future.
 
 #### 🌱 Right now I'm 
 
@@ -33,7 +33,7 @@ I'm a first-year at UC Berkeley double majoring in Neurobiology and Computer Sci
 
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZXhxsjwDbfHbRcPQgmbfgQFCGTxvDFFjGhdPBkBjmGxhRTtFjpGSXHNFrJBNFBJdMcHSV"><img align="left" src= "https://user-images.githubusercontent.com/112449798/222352958-709b49e6-2171-41c3-bba1-f622075051d1.png" alt="Amisha Gupta | Gmail" width="40px"/></a>
 
-<a href="https://www.researchgate.net/profile/Amisha-Gupta-13"><img align="left" src= "https://user-images.githubusercontent.com/112449798/222997107-68dc36b8-676c-4eb7-b697-d42b1cd8ff1c.png" alt="Amisha Gupta | Gmail" width="60%" height = "30%"/></a>
+<a href="https://www.researchgate.net/profile/Amisha-Gupta-13"><img align="left" src= "https://user-images.githubusercontent.com/112449798/222997107-68dc36b8-676c-4eb7-b697-d42b1cd8ff1c.png" alt="Amisha Gupta | Gmail" width="15%" height = "15%"/></a>
 
 Let's work together and build something great!
 
