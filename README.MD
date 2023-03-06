@@ -55,7 +55,7 @@ Let's work together and build something great!
 ![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
 
 
-![Amisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=amishaguptaberk&count_private=true&show_icons=true&theme=tokyonight)
+![Amisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=amishaguptaberk&count_private=true&show_icons=true&theme=transparent)
 
 
 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
