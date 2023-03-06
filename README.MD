@@ -24,10 +24,8 @@ I'm a first-year at UC Berkeley double majoring in Neurobiology and Computer Sci
 
 - Gain more industry experience in summer 2023 -- I'm passionate about learning and developing my skills as an active probelm-solver during this exciting time in tech - If you're open to hire, I'd be so grateful if you'd reach out.
 - Travel to Colombo, Sri Lanka to visit my family soon.
-- Learn how to oil paint.
 
-
-####  I would love to talk to you !
+#### 📬 I would love to talk to you !
 
 <a href="https://www.linkedin.com/in/amishagupta9255/"><img align="left" src="https://user-images.githubusercontent.com/112449798/222351095-56353d09-2b54-489c-af6f-c68ea4c9cd70.png" alt="Amisha Gupta | LinkedIn" width="30px"/></a>
 
@@ -60,4 +58,4 @@ Let's work together and build something great!
 ![Amisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=amishaguptaberk&theme=monokai&show_icons=true)
 
 
-- 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
+💬 If you have any questions/feedback, please do not hesitate to reach out to me!
