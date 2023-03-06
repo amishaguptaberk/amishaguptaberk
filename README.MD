@@ -56,7 +56,7 @@ Let's work together and build something great!
 
 </br>
 
-![Amisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=amishaguptaberk&count_private=true&show_icons=true&theme=dracula)
+![Amisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=amishaguptaberk&count_private=true&show_icons=true&theme=radical)
 
 
 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
