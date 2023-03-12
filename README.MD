@@ -23,6 +23,7 @@ I'm a first-year at UC Berkeley double majoring in Neurobiology and Computer Sci
 #### 🎯 I hope to...
 
 - Gain more industry experience in summer 2023 -- I'm passionate about learning and developing my skills as an active probelm-solver during this exciting time in tech - If you're open to hire, I'd be so grateful if you'd reach out.
+- Learn to write and perform my jazz lead sheets for my YouTube channel!
 - Travel to Colombo, Sri Lanka to visit my family soon.
 
 #### 📬 I would love to talk to you !
