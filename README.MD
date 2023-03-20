@@ -23,7 +23,7 @@ I'm a first-year at UC Berkeley double majoring in Neurobiology and Computer Sci
 #### 🎯 I hope to...
 
 - Gain more industry experience in summer 2023 -- I'm passionate about learning and developing my skills as an active probelm-solver during this exciting time in tech - If you're open to hire, I'd be so grateful if you'd reach out.
-- Learn to write and perform my jazz lead sheets for my YouTube channel!
+- Learn and record Mozart's second Aria from the Marraige of Figaro for my [Youtube Channel](https://www.youtube.com/@AmishaGuptaClassicalMusic)!!
 - Travel to Colombo, Sri Lanka to visit my family soon.
 
 #### 📬 I would love to talk to you !
@@ -33,6 +33,9 @@ I'm a first-year at UC Berkeley double majoring in Neurobiology and Computer Sci
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZXhxsjwDbfHbRcPQgmbfgQFCGTxvDFFjGhdPBkBjmGxhRTtFjpGSXHNFrJBNFBJdMcHSV"><img align="left" src= "https://user-images.githubusercontent.com/112449798/222352958-709b49e6-2171-41c3-bba1-f622075051d1.png" alt="Amisha Gupta | Gmail" width="40px"/></a>
 
 <a href="https://www.researchgate.net/profile/Amisha-Gupta-13"><img align="left" src= "https://user-images.githubusercontent.com/112449798/222997107-68dc36b8-676c-4eb7-b697-d42b1cd8ff1c.png" alt="Amisha Gupta | Gmail" width="10%" height = "10%"/></a>
+
+<a href="https://www.youtube.com/@AmishaGuptaClassicalMusic"><img align="left" src= "https://user-images.githubusercontent.com/112449798/226240351-b95a9f72-e335-41e1-8d72-33ed7027da97.png" alt="Amisha Gupta | YouTube" width="10%" height = "10%"/></a>
+
 
 Let's work together and build something great!
 
