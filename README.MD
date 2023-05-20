@@ -11,7 +11,7 @@ I'm a first-year at UC Berkeley double majoring in Neurobiology and Computer Sci
 #### 🌱 Right now I'm 
 
 
-* 🏫   Learning Data Science, and Deep Neural Networks at UC Berkeley
+* 🏫   Learning Computer Science, and Deep Neural Networks at UC Berkeley
 
 * 👨‍🏫   Teaching Cal's intro Data Science course, Data 8, as a lab assistant 
 
