@@ -36,6 +36,7 @@ I'm a first-year at UC Berkeley double majoring in Neurobiology and Computer Sci
 
 <a href="https://www.youtube.com/@AmishaGuptaClassicalMusic"><img align="left" src= "https://user-images.githubusercontent.com/112449798/226240351-b95a9f72-e335-41e1-8d72-33ed7027da97.png" alt="Amisha Gupta | YouTube" width="10%" height = "400%"/></a>
 
+</br>
 
 Let's work together and build something great!
 
