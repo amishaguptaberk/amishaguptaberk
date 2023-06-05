@@ -27,9 +27,9 @@ I'm a first-year at UC Berkeley double majoring in Neurobiology and Computer Sci
 <a href="https://www.linkedin.com/in/amishagupta9255/"><img src="https://user-images.githubusercontent.com/112449798/222351095-56353d09-2b54-489c-af6f-c68ea4c9cd70.png" alt="Amisha Gupta | LinkedIn" width="30px"/></a>
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZXhxsjwDbfHbRcPQgmbfgQFCGTxvDFFjGhdPBkBjmGxhRTtFjpGSXHNFrJBNFBJdMcHSV"><img align="left" src= "https://user-images.githubusercontent.com/112449798/222352958-709b49e6-2171-41c3-bba1-f622075051d1.png" alt="Amisha Gupta | Gmail" width="40px"/></a>
 
-<a href="https://www.researchgate.net/profile/Amisha-Gupta-13"><img src= "https://user-images.githubusercontent.com/112449798/222997107-68dc36b8-676c-4eb7-b697-d42b1cd8ff1c.png" alt="Amisha Gupta | Gmail"  width="80px"/></a>
+<a href="https://www.researchgate.net/profile/Amisha-Gupta-13"><img src= "https://user-images.githubusercontent.com/112449798/222997107-68dc36b8-676c-4eb7-b697-d42b1cd8ff1c.png" alt="Amisha Gupta | Gmail"  width="90px"/></a>
 
-<a href="https://www.youtube.com/@AmishaGuptaClassicalMusic"><img src= "https://user-images.githubusercontent.com/112449798/226240351-b95a9f72-e335-41e1-8d72-33ed7027da97.png" alt="Amisha Gupta | YouTube"  width="40px"/></a>
+<a href="https://www.youtube.com/@AmishaGuptaClassicalMusic"><img src= "https://user-images.githubusercontent.com/112449798/226240351-b95a9f72-e335-41e1-8d72-33ed7027da97.png" alt="Amisha Gupta | YouTube"  width="40px" height="40px"/></a>
 
 Let's work together and build something great!
 
