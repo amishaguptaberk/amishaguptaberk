@@ -5,7 +5,6 @@
 <h2 align="left"> 👋🏽 Hi there, I'm <a href="http://www.amishagupta.com/" target="_blank" rel="noreferrer">Amisha</a> </h2>
 
 I'm a first-year at UC Berkeley double majoring in Neurobiology and Computer Science! I'm excited to be part of era involving the revolution of AI in Healthcare, and am passionate about using Machine Learning and Deep Learning to transform patient outcomes. I am passionate about enabling enhanced medical decision-making powered by machine learning to build the treatments of the future.
----
 #### 🌱 Right now I'm 
 
 
