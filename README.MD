@@ -1,10 +1,9 @@
 
 [![Github](https://img.shields.io/github/followers/amishaguptaberk?label=Follow&style=social)](https://github.com/amishaguptaberk)
 ![](https://visitor-badge.laobi.icu/badge?page_id=amishaguptaberk.amishaguptaberk)
-<h2 align="left">
 
-👋🏽 Hi there, I'm <a href="http://www.amishagupta.com/" target="_blank" rel="noreferrer">Amisha</a> 
-</h2>
+<h2 align="left"> 👋🏽 Hi there, I'm <a href="http://www.amishagupta.com/" target="_blank" rel="noreferrer">Amisha</a> </h2>
+---
 
 I'm a first-year at UC Berkeley double majoring in Neurobiology and Computer Science! I'm excited to be part of era involving the revolution of AI in Healthcare, and am passionate about using Machine Learning and Deep Learning to transform patient outcomes. I am passionate about enabling enhanced medical decision-making powered by machine learning to build the treatments of the future.
 
@@ -38,7 +37,6 @@ I'm a first-year at UC Berkeley double majoring in Neurobiology and Computer Sci
 </p>
 Let's work together and build something great!
 
----
 #### Languages: 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
