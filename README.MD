@@ -7,7 +7,6 @@
 I'm a first-year at UC Berkeley double majoring in Neurobiology and Computer Science! I'm excited to be part of era involving the revolution of AI in Healthcare, and am passionate about using Machine Learning and Deep Learning to transform patient outcomes. I am passionate about enabling enhanced medical decision-making powered by machine learning to build the treatments of the future.
 
 #### 🌱 Right now I'm 
----
 
 * 🏫   Learning Computer Science, and Deep Neural Networks at UC Berkeley
 
@@ -36,6 +35,8 @@ I'm a first-year at UC Berkeley double majoring in Neurobiology and Computer Sci
 </p>
 Let's work together and build something great!
 
+---
+
 #### Languages: 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -53,8 +54,7 @@ Let's work together and build something great!
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
 
-</br>
-
+---
 ![Amisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=amishaguptaberk&count_private=true&show_icons=true&theme=radical)
 
 
