@@ -2,36 +2,51 @@
 [![Github](https://img.shields.io/github/followers/amishaguptaberk?label=Follow&style=social)](https://github.com/amishaguptaberk)
 ![](https://visitor-badge.laobi.icu/badge?page_id=amishaguptaberk.amishaguptaberk)
 
-<h2 align="left"> 👋🏽 Hi there, I'm <a href="http://www.amishagupta.com/" target="_blank" rel="noreferrer">Amisha</a> </h2>
+<h2>About Me</h2>
 
-I'm a first-year at UC Berkeley double majoring in Neurobiology and Computer Science! I'm excited to be part of era involving the revolution of AI in Healthcare, and am passionate about using Machine Learning and Deep Learning to transform patient outcomes. I am passionate about enabling enhanced medical decision-making powered by machine learning to build the treatments of the future.
+<p>👋 Hi there! I'm <strong>Amisha Gupta</strong>, currently a rising junior at <strong>UC Berkeley</strong>, where I'm diving deep into the fascinating worlds of <strong>Data Science</strong> and <strong>Computer Science</strong>. My journey is driven by a passion for leveraging <strong>AI in healthcare</strong> to transform patient outcomes.</p>
 
-#### 🌱 Right now I'm 
+<h3>My Journey in a Nutshell</h3>
 
-* 🏫   Learning Computer Science, and Deep Neural Networks at UC Berkeley
+<p>From a young age, I've been fascinated by the power of technology to solve real-world problems. This curiosity led me to UC Berkeley, where I'm pursuing a double major in Data Science and Computer Science. Here, I've had the incredible opportunity to:</p>
+<ul>
+  <li><strong>Explore Neurotechnology</strong>: My research delves into using AI to understand and treat neurological conditions like Alzheimer's disease. I'm particularly focused on enhancing clinical decision support systems (ML_CDSS) for future treatments.</li>
+  <li><strong>Investigate Non-Pharmaceutical Treatments</strong>: At the University of Shanghai for Science and Technology, I explored the impact of music therapy and environmental factors on Alzheimer's disease.</li>
+</ul>
 
-* 👨‍🏫   Teaching Cal's intro Data Science course, Data 8, as a lab assistant 
+<h3>What I've Been Up To</h3>
 
-* 👩🏽‍💻  Designing curriculum for Cal's data science connector courses as a Modules Developer at DSUS
+<ul>
+  <li>📡 <strong>IMDEA Networks Institute</strong>: Currently, I'm a Research Intern in Madrid, Spain, working on providing cloud-like services in remote areas with unreliable network connectivity. It's been an exciting challenge to improve network reliability and accessibility in underserved regions.</li>
+  <li>🏫 <strong>UC Berkeley</strong>: As a Modules Developer and Course Staff, I help design curriculum and teach students how to apply computational and statistical skills in biology using Python and other data visualization libraries.</li>
+  <li>🔬 <strong>Stanford University</strong>: Previously, I researched the biopsychological aspects of Alzheimer's disease, contributing to our understanding of how beta-amyloid plaques affect patients.</li>
+</ul>
 
-* 🎤 🎶  Making music whenever and wherever I can!
+<h3>Beyond the Lab</h3>
 
+<p>When I'm not immersed in research or coursework, you can find me indulging in some of my favorite hobbies:</p>
+<ul>
+  <li>🎶 <strong>Music</strong>: I have a deep love for vocal performance and have won multiple competitions, including the CSMTA Concerto Competition and the NATS Regional Auditions.</li>
+  <li>✈️ <strong>Travel</strong>: Exploring new places and cultures is my way of gaining new perspectives. My research has taken me to fascinating destinations like Spain and China.</li>
+  <li>📚 <strong>Reading</strong>: Staying updated with the latest in scientific literature is a hobby that keeps my curiosity alive and kicking.</li>
+  <li>🏃 <strong>Fitness</strong>: Yoga and running are my go-to activities for maintaining a healthy lifestyle.</li>
+</ul>
 
-#### 🎯 I hope to...
+<h3>Publications & Honors</h3>
 
-- Gain more industry experience in summer 2023 -- I'm passionate about learning and developing my skills as an active probelm-solver during this exciting time in tech - If you're open to hire, I'd be so grateful if you'd reach out.
-- Learn and record Mozart's second Aria from the Marraige of Figaro for my [Youtube Channel](https://www.youtube.com/@AmishaGuptaClassicalMusic)!!
-- Travel to Colombo, Sri Lanka to visit my family soon.
+<p>I've had the privilege of contributing to the scientific community through publications like "The Relevance of Chemistry in Tumor Microenvironment of Cancer Patients" and "Effect on Alzheimer's Disease During COVID-19." My academic journey has also been decorated with honors such as the National Latin Vocabulary Exam Gold Medal and multiple first-place wins in vocal competitions.</p>
 
-#### 📬 I would love to talk to you !
-<a href="https://www.linkedin.com/in/amishagupta9255/"><img src="https://user-images.githubusercontent.com/112449798/222351095-56353d09-2b54-489c-af6f-c68ea4c9cd70.png" align="left" alt="Amisha Gupta | LinkedIn" width="30px"/></a>
-<a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZXhxsjwDbfHbRcPQgmbfgQFCGTxvDFFjGhdPBkBjmGxhRTtFjpGSXHNFrJBNFBJdMcHSV"><img align="left" src= "https://user-images.githubusercontent.com/112449798/222352958-709b49e6-2171-41c3-bba1-f622075051d1.png" alt="Amisha Gupta | Gmail" width="40px"/></a>
+<h3>Let's Connect!</h3>
 
-<a href="https://www.researchgate.net/profile/Amisha-Gupta-13"><img src= "https://user-images.githubusercontent.com/112449798/222997107-68dc36b8-676c-4eb7-b697-d42b1cd8ff1c.png" align="left" alt="Amisha Gupta | Gmail"  width="90px"/></a>
+<p>I'm always excited to connect with like-minded individuals and explore collaborative opportunities. Feel free to reach out to me:</p>
+<ul>
+  <li>🔗 <strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/amishagupta9255">Amisha Gupta</a></li>
+  <li>💻 <strong>GitHub</strong>: <a href="https://github.com/amishaguptaberk">amishaguptaberk</a></li>
+  <li>📧 <strong>Email</strong>: <a href="mailto:guptaamishagupta@gmail.com">guptaamishagupta@gmail.com</a></li>
+</ul>
 
-<a href="https://www.youtube.com/@AmishaGuptaClassicalMusic"><img src= "https://user-images.githubusercontent.com/112449798/226240351-b95a9f72-e335-41e1-8d72-33ed7027da97.png" alt="Amisha Gupta | YouTube"  width="80px"/></a>
+<p>Let's work together to build something great!</p>
 
-Let's work together and build something great!
 
 #### Languages: 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
