@@ -1,4 +1,3 @@
-
 [![Github](https://img.shields.io/github/followers/amishaguptaberk?label=Follow&style=social)](https://github.com/amishaguptaberk)
 ![](https://visitor-badge.laobi.icu/badge?page_id=amishaguptaberk.amishaguptaberk)
 
@@ -11,52 +10,52 @@
 </head>
 <body style="font-family: Arial, sans-serif; line-height: 1.6;">
 
-<h2 style="color: #333399;">About Me</h2>
+<h2>About Me</h2>
 
 <p>👋 Hi there! I'm <strong>Amisha Gupta</strong>, currently a rising junior at <strong>UC Berkeley</strong>, where I'm diving deep into the fascinating worlds of <strong>Data Science</strong> and <strong>Computer Science</strong>. My journey is driven by a passion for leveraging <strong>AI in healthcare</strong> to transform patient outcomes.</p>
 
-<h3 style="color: #6666FF;">My Journey in a Nutshell</h3>
+<h3>My Journey in a Nutshell</h3>
 
 <p>From a young age, I've been fascinated by the power of technology to solve real-world problems. This curiosity led me to UC Berkeley, where I'm pursuing a double major in Data Science and Computer Science. Here, I've had the incredible opportunity to:</p>
-<ul style="color: #333; list-style-type: none;">
-  <li><span style="color: #6666FF; font-size: 1.2em; vertical-align: middle;">•</span> 🤖 <strong>Explore Neurotechnology</strong>: My research delves into using AI to understand and treat neurological conditions like Alzheimer's disease. I'm particularly focused on enhancing clinical decision support systems (ML_CDSS) for future treatments.</li>
-  <li><span style="color: #6666FF; font-size: 1.2em; vertical-align: middle;">•</span> 🎵 <strong>Investigate Non-Pharmaceutical Treatments</strong>: At the University of Shanghai for Science and Technology, I explored the impact of music therapy and environmental factors on Alzheimer's disease.</li>
+<ul>
+  <li>🤖 <strong>Explore Neurotechnology</strong>: My research delves into using AI to understand and treat neurological conditions like Alzheimer's disease. I'm particularly focused on enhancing clinical decision support systems (ML_CDSS) for future treatments.</li>
+  <li>🎵 <strong>Investigate Non-Pharmaceutical Treatments</strong>: At the University of Shanghai for Science and Technology, I explored the impact of music therapy and environmental factors on Alzheimer's disease.</li>
 </ul>
 
-<h3 style="color: #6666FF;">What I've Been Up To</h3>
+<h3>What I've Been Up To</h3>
 
-<ul style="color: #333; list-style-type: none;">
-  <li><span style="color: #6666FF; font-size: 1.2em; vertical-align: middle;">•</span> 📡 <strong>IMDEA Networks Institute</strong>: Currently, I'm a Research Intern in Madrid, Spain, working on providing cloud-like services in remote areas with unreliable network connectivity. It's been an exciting challenge to improve network reliability and accessibility in underserved regions.</li>
-  <li><span style="color: #6666FF; font-size: 1.2em; vertical-align: middle;">•</span> 🏫 <strong>UC Berkeley</strong>: As a Modules Developer and Course Staff, I help design curriculum and teach students how to apply computational and statistical skills in biology using Python and other data visualization libraries.</li>
-  <li><span style="color: #6666FF; font-size: 1.2em; vertical-align: middle;">•</span> 🔬 <strong>Stanford University</strong>: Previously, I researched the biopsychological aspects of Alzheimer's disease, contributing to our understanding of how beta-amyloid plaques affect patients.</li>
+<ul>
+  <li>📡 <strong>IMDEA Networks Institute</strong>: Currently, I'm a Research Intern in Madrid, Spain, working on providing cloud-like services in remote areas with unreliable network connectivity. It's been an exciting challenge to improve network reliability and accessibility in underserved regions.</li>
+  <li>🏫 <strong>UC Berkeley</strong>: As a Modules Developer and Course Staff, I help design curriculum and teach students how to apply computational and statistical skills in biology using Python and other data visualization libraries.</li>
+  <li>🔬 <strong>Stanford University</strong>: Previously, I researched the biopsychological aspects of Alzheimer's disease, contributing to our understanding of how beta-amyloid plaques affect patients.</li>
 </ul>
 
-<h3 style="color: #6666FF;">Beyond the Lab</h3>
+<h3>Beyond the Lab</h3>
 
 <p>When I'm not immersed in research or coursework, you can find me indulging in some of my favorite hobbies:</p>
-<ul style="color: #333; list-style-type: none;">
-  <li><span style="color: #6666FF; font-size: 1.2em; vertical-align: middle;">•</span> 🎶 <strong>Music</strong>: I have a deep love for vocal performance and have won multiple competitions, including the CSMTA Concerto Competition and the NATS Regional Auditions.</li>
-  <li><span style="color: #6666FF; font-size: 1.2em; vertical-align: middle;">•</span> ✈️ <strong>Travel</strong>: Exploring new places and cultures is my way of gaining new perspectives. My research has taken me to fascinating destinations like Spain and China.</li>
-  <li><span style="color: #6666FF; font-size: 1.2em; vertical-align: middle;">•</span> 📚 <strong>Reading</strong>: Staying updated with the latest in scientific literature is a hobby that keeps my curiosity alive and kicking.</li>
-  <li><span style="color: #6666FF; font-size: 1.2em; vertical-align: middle;">•</span> 🏃 <strong>Fitness</strong>: Yoga and running are my go-to activities for maintaining a healthy lifestyle.</li>
+<ul>
+  <li>🎶 <strong>Music</strong>: I have a deep love for vocal performance and have won multiple competitions, including the CSMTA Concerto Competition and the NATS Regional Auditions.</li>
+  <li>✈️ <strong>Travel</strong>: Exploring new places and cultures is my way of gaining new perspectives. My research has taken me to fascinating destinations like Spain and China.</li>
+  <li>📚 <strong>Reading</strong>: Staying updated with the latest in scientific literature is a hobby that keeps my curiosity alive and kicking.</li>
+  <li>🏃 <strong>Fitness</strong>: Yoga and running are my go-to activities for maintaining a healthy lifestyle.</li>
 </ul>
 
-<h3 style="color: #6666FF;">Publications & Honors</h3>
+<h3>Publications & Honors</h3>
 
 <p>I've had the privilege of contributing to the scientific community through publications like "The Relevance of Chemistry in Tumor Microenvironment of Cancer Patients" and "Effect on Alzheimer's Disease During COVID-19." My academic journey has also been decorated with honors such as the National Latin Vocabulary Exam Gold Medal and multiple first-place wins in vocal competitions.</p>
 
-<h3 style="color: #6666FF;">Let's Connect!</h3>
+<h3>Let's Connect!</h3>
 
 <p>I'm always excited to connect with like-minded individuals and explore collaborative opportunities. Feel free to reach out to me:</p>
-<ul style="color: #333; list-style-type: none;">
-  <li><span style="color: #6666FF; font-size: 1.2em; vertical-align: middle;">•</span> 🔗 <strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/amishagupta9255" style="color: #333399;">Amisha Gupta</a></li>
-  <li><span style="color: #6666FF; font-size: 1.2em; vertical-align: middle;">•</span> 💻 <strong>GitHub</strong>: <a href="https://github.com/amishaguptaberk" style="color: #333399;">amishaguptaberk</a></li>
-  <li><span style="color: #6666FF; font-size: 1.2em; vertical-align: middle;">•</span> 📧 <strong>Email</strong>: <a href="mailto:guptaamishagupta@gmail.com" style="color: #333399;">guptaamishagupta@gmail.com</a></li>
+<ul>
+  <li>🔗 <strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/amishagupta9255">Amisha Gupta</a></li>
+  <li>💻 <strong>GitHub</strong>: <a href="https://github.com/amishaguptaberk">amishaguptaberk</a></li>
+  <li>📧 <strong>Email</strong>: <a href="mailto:guptaamishagupta@gmail.com">guptaamishagupta@gmail.com</a></li>
 </ul>
 
 <p>Let's work together to build something great!</p>
 
-<h3 style="color: #6666FF;">Languages & Tools</h3>
+<h3>Languages & Tools</h3>
 
 <p>
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
