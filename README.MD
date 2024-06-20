@@ -1,9 +1,4 @@
-[![Github](https://img.shields.io/github/followers/amishaguptaberk?label=Follow&style=social)](https://github.com/amishaguptaberk)
-![](https://visitor-badge.laobi.icu/badge?page_id=amishaguptaberk.amishaguptaberk)
 
-Here's a simplified version of your GitHub profile `README.md` in plain HTML with basic inline styling and emojis:
-
-```html
 [![Github](https://img.shields.io/github/followers/amishaguptaberk?label=Follow&style=social)](https://github.com/amishaguptaberk)
 ![](https://visitor-badge.laobi.icu/badge?page_id=amishaguptaberk.amishaguptaberk)
 
