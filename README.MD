@@ -66,7 +66,7 @@
     <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter">
     <img src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge
 ![Amisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=amishaguptaberk&count_private=true&show_icons=true&theme=radical)
-💬 If you have any questions/feedback, please do not hesitate to reach out to me!
+<p>💬 If you have any questions/feedback, please do not hesitate to reach out to me!<p>
 </body>
 </html>
 
