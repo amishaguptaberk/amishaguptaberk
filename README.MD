@@ -2,6 +2,54 @@
 [![Github](https://img.shields.io/github/followers/amishaguptaberk?label=Follow&style=social)](https://github.com/amishaguptaberk)
 ![](https://visitor-badge.laobi.icu/badge?page_id=amishaguptaberk.amishaguptaberk)
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Me</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+        }
+        h2 {
+            color: #333399;
+        }
+        h3 {
+            color: #6666FF;
+        }
+        p, ul {
+            color: #333;
+        }
+        ul {
+            list-style-type: none;
+        }
+        ul li::before {
+            content: "• ";
+            color: #6666FF;
+            font-size: 1.2em;
+            vertical-align: middle;
+        }
+        a {
+            color: #333399;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .emoji {
+            font-size: 1.4em;
+            vertical-align: middle;
+            margin-right: 5px;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+
 <h2>About Me</h2>
 
 <p>👋 Hi there! I'm <strong>Amisha Gupta</strong>, currently a rising junior at <strong>UC Berkeley</strong>, where I'm diving deep into the fascinating worlds of <strong>Data Science</strong> and <strong>Computer Science</strong>. My journey is driven by a passion for leveraging <strong>AI in healthcare</strong> to transform patient outcomes.</p>
@@ -10,8 +58,8 @@
 
 <p>From a young age, I've been fascinated by the power of technology to solve real-world problems. This curiosity led me to UC Berkeley, where I'm pursuing a double major in Data Science and Computer Science. Here, I've had the incredible opportunity to:</p>
 <ul>
-  <li><strong>Explore Neurotechnology</strong>: My research delves into using AI to understand and treat neurological conditions like Alzheimer's disease. I'm particularly focused on enhancing clinical decision support systems (ML_CDSS) for future treatments.</li>
-  <li><strong>Investigate Non-Pharmaceutical Treatments</strong>: At the University of Shanghai for Science and Technology, I explored the impact of music therapy and environmental factors on Alzheimer's disease.</li>
+  <li>🤖 <strong>Explore Neurotechnology</strong>: My research delves into using AI to understand and treat neurological conditions like Alzheimer's disease. I'm particularly focused on enhancing clinical decision support systems (ML_CDSS) for future treatments.</li>
+  <li>🎵 <strong>Investigate Non-Pharmaceutical Treatments</strong>: At the University of Shanghai for Science and Technology, I explored the impact of music therapy and environmental factors on Alzheimer's disease.</li>
 </ul>
 
 <h3>What I've Been Up To</h3>
@@ -47,6 +95,8 @@
 
 <p>Let's work together to build something great!</p>
 
+</body>
+</html>
 
 #### Languages: 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
