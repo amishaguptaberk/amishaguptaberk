@@ -24,6 +24,7 @@
 
 <ul>
   <li>📡 <strong>IMDEA Networks Institute</strong>: Currently, I'm a Research Intern in Madrid, Spain, working on providing cloud-like services in remote areas with unreliable network connectivity. It's been an exciting challenge to improve network reliability and accessibility in underserved regions.</li>
+<li> <strong>American Express </strong> : Last sumemr, I was a software engineering intern at American Express, where I did global analytics along side a team o f3-4 developers and worked on the backend for payment processing  </li> 
   <li>🏫 <strong>UC Berkeley</strong>: As a Modules Developer and Course Staff, I help design curriculum and teach students how to apply computational and statistical skills in biology using Python and other data visualization libraries.</li>
   <li>🔬 <strong>Stanford University</strong>: Previously, I researched the biopsychological aspects of Alzheimer's disease, contributing to our understanding of how beta-amyloid plaques affect patients.</li>
 </ul>
@@ -69,7 +70,8 @@
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
     <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter">
     <img src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge
-![Amisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=amishaguptaberk&count_private=true&show_icons=true&theme=radical)
+<!--> ![Amisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=amishaguptaberk&count_private=true&show_icons=true&theme=radical) */ -->
+
 <p>💬 If you have any questions/feedback, please do not hesitate to reach out to me!<p>
 </body>
 </html>
