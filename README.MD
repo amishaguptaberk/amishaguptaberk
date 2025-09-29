@@ -10,7 +10,7 @@
 
 <h2>About Me</h2>
 
-<p>👋 Hi there! I'm <strong>Amisha Gupta</strong>, currently a rising junior at <strong>UC Berkeley</strong>, where I'm diving deep into the fascinating worlds of <strong>Data Science</strong> and <strong>Computer Science</strong>. My journey is driven by a passion for leveraging <strong>AI in healthcare</strong> to transform patient outcomes.</p>
+<p>👋 Hi there! I'm <strong>Amisha Gupta</strong>, currently an undergraduate at <strong>UC Berkeley</strong>, where I'm diving deep into the fascinating worlds of <strong>Data Science</strong> and <strong>Computer Science</strong>. My journey is driven by a passion for leveraging <strong>AI in healthcare</strong> to transform patient outcomes.</p>
 
 <h3>My Journey in a Nutshell</h3>
 
