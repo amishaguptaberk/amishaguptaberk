@@ -4,7 +4,7 @@ CS + Data Science @ UC Berkeley '26 | GPA: CS 3.87 · DS 3.94
 
 Building infrastructure behind AI systems. Interested in distributed systems, ML infrastructure, and healthcare engineering.
 
-Previously: Amazon (SDE Intern), American Express (SWE Intern), UCSF × Stanford Medical Center, IMDEA Networks (Madrid). Currently: AI infrastructure at an early stage startup + undergraduate researcher at the Wang Lab (motor learning neuroscience).
+Previously: Amazon (SDE Intern), American Express (SWE Intern), UCSF × Stanford Medical Center, IMDEA Networks (Madrid). Currently: AI infrastructure at an early stage startup + undergraduate researcher at the Ivry Lab (motor learning neuroscience).
 
 ### Featured Work
 - **Surface Hub** — Full stack Next.js/TypeScript/PostgreSQL platform with Claude API integration, cron workers, and LinkedIn analytics. ~17k LOC.
