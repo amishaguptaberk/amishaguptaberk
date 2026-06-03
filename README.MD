@@ -13,7 +13,7 @@ Previously: Amazon (SDE Intern), American Express (SWE Intern), UCSF × Stanford
 - **SmartSight** — Android/Kotlin assistive wearable using OpenCV and TensorFlow Lite with DAG based edge offloading.
 
 ### Stack
-**Languages:** Python · Java · C++ · Go · TypeScript · Bash
+**Languages:** Python · Java · C++ · Go · TypeScript · Bash · Tailwind
 
 **Frameworks:** FastAPI · Spring Boot · React · Next.js
 
