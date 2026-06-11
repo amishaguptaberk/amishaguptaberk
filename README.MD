@@ -7,7 +7,7 @@ Building infrastructure behind AI systems. Interested in distributed systems, ML
 Previously: Amazon (SDE Intern), American Express (SWE Intern), UCSF × Stanford Medical Center, IMDEA Networks (Madrid). Currently: AI infrastructure at an early stage startup + undergraduate researcher at the Ivry Lab (motor learning neuroscience).
 
 ### Featured Work
-- **Surface Hub** — Full stack Next.js/TypeScript/PostgreSQL platform with Claude API integration, cron workers, and LinkedIn analytics. ~17k LOC.
+- **Surface Hub** — AI-powered B2B growth platform built on Next.js/TypeScript/PostgreSQL with Claude API integration, async cron workers, and LinkedIn analytics. ~17k LOC.
 - **Dynamic Prompt Optimizer** — FastAPI + React eval framework for scoring AI voice agents using Claude as judge via the Anthropic API.
 - **Needle** — Deep learning framework from scratch: autograd, nn modules, optimizers, data loading, ResNet training loop.
 - **SmartSight** — Android/Kotlin assistive wearable using OpenCV and TensorFlow Lite with DAG based edge offloading.
