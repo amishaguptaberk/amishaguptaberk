@@ -1,6 +1,6 @@
 # Amisha Gupta
 
-CS + Data Science @ UC Berkeley '26 · GPA: CS 3.91 / DS 3.94
+Computer Science + Data Science @ UC Berkeley '26 · GPA: CS 3.91 / DS 3.94
 
 Building infrastructure behind AI systems — distributed systems, ML infrastructure, and healthcare engineering.
 
