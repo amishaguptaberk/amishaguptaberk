@@ -17,7 +17,7 @@ MILP + greedy scheduling heuristic for distributed task allocation under latency
 **LLM Evaluation** · *UCSF × Stanford*
 Gemini-based scoring pipelines, A/B testing of clinical AI outputs, human evaluation integration on a HIPAA-compliant backend.
 
-**Motor Learning** · *Ivry Lab, UC Berkeley*
+**Motor Learning** · *[Ivry Lab, UC Berkeley](https://ivrylab.berkeley.edu)*
 State-space modeling and bootstrap resampling on visuomotor adaptation data (Wang et al. 2025).
 
 ---
