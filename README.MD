@@ -30,7 +30,15 @@ State-space modeling and bootstrap resampling on visuomotor adaptation data (Wan
 - **SmartSight** — Android/Kotlin assistive wearable · OpenCV · TensorFlow Lite · DAG-based edge offloading
 
 ---
+## In the Lab
 
+⚫ An AI-native product exploring agent orchestration, retrieval systems, and autonomous workflows.
+
+⚫ A large-scale infrastructure project focused on reliability, observability, and distributed event processing.
+
+Details coming soon.
+
+---
 ## Stack
 
 **Languages:** Python · Java · C++ · Go · TypeScript · Bash
