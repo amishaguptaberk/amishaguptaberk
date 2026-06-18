@@ -29,20 +29,6 @@ State-space modeling and bootstrap resampling on visuomotor adaptation data (Wan
 - **Needle** — Deep learning framework from scratch · autograd · nn modules · optimizers · ResNet training loop
 - **SmartSight** — Android/Kotlin assistive wearable · OpenCV · TensorFlow Lite · DAG-based edge offloading
 
----
-## In the Lab
-
-Current obsessions:
-
-- Voice agents
-- Distributed systems
-- Retrieval pipelines
-- Workflow automation
-- Human–AI collaboration
-
-Shipping when they're ready.
-
----
 ## Stack
 
 **Languages:** Python · Java · C++ · Go · TypeScript · Bash
