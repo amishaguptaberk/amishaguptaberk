@@ -32,11 +32,15 @@ State-space modeling and bootstrap resampling on visuomotor adaptation data (Wan
 ---
 ## In the Lab
 
-⚫ An AI-native product exploring agent orchestration, retrieval systems, and autonomous workflows.
+Current obsessions:
 
-⚫ A large-scale infrastructure project focused on reliability, observability, and distributed event processing.
+- Voice agents
+- Distributed systems
+- Retrieval pipelines
+- Workflow automation
+- Human–AI collaboration
 
-Details coming soon.
+Shipping when they're ready.
 
 ---
 ## Stack
