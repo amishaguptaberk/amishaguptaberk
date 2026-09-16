@@ -23,7 +23,7 @@ State-space modeling and bootstrap resampling on visuomotor adaptation data (Wan
 ---
 
 ## Featured Work
-- **Cognova AI** — Multi-tenant Voice AI platform · React · TypeScript · Supabase · PostgreSQL · Twilio · ElevenLabs · Stripe · Clover POS
+- **Sonar** — Multi-tenant Voice AI platform · React · TypeScript · Supabase · PostgreSQL · Twilio · ElevenLabs · Stripe · Clover POS
 - **Surface Hub** — AI-powered B2B growth platform · Next.js · PostgreSQL · Claude API · async cron workers · LinkedIn analytics · ~17k LOC
 - **Dynamic Prompt Optimizer** — FastAPI + React eval framework for AI voice agents · Claude-as-judge · Anthropic API
 - **Needle** — Deep learning framework from scratch · autograd · nn modules · optimizers · ResNet training loop
