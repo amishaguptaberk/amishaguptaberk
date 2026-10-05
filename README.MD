@@ -9,7 +9,6 @@ Currently building AI infrastructure at an early-stage startup. I work across th
 - **Sonar:** Multi-tenant voice AI platform with telephony, payments, and POS integrations. Built with React, TypeScript, Supabase, Twilio, ElevenLabs, Stripe, and Clover.
 - **Surface Hub:** B2B growth platform with LinkedIn analytics and background AI workflows. Next.js, PostgreSQL, Claude API, and async workers.
 - **Dynamic Prompt Optimizer:** Evaluation framework for AI voice agents, with a FastAPI backend, React interface, and Claude-as-judge scoring.
-- **[Valey](https://github.com/amishaguptaberk/backend_api_rideshare_app):** Rideshare backend and rider/driver apps covering ride requests, live tracking, payments, and driver payouts. FastAPI, PostgreSQL, Socket.IO, Stripe Connect, and React Native.
 
 ## More public code
 
