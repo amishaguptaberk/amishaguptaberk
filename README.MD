@@ -10,7 +10,7 @@ Currently building AI infrastructure at an early-stage startup. I work across th
 
 - **Echo:** Caller-intelligence and evaluation platform that turns production conversations into structured QA signals and uses golden-set regression testing to optimize prompts, models, and scoring logic before deployment. Built around diarized transcription, PII-safe processing, dimension-level QA, versioned evaluation runs, PostgreSQL, and Redis to trace how pipeline changes affect call quality, routing, and failure modes.
 
-- **Surface Hub:** B2B growth platform built at Surface Labs (YC ’23) with LinkedIn analytics, AI-assisted search and recommendations, and asynchronous processing. Built with Next.js, PostgreSQL, Claude API, and background workers for long-running customer-facing workflows.
+- **Surface Hub:** B2B growth platform built with LinkedIn analytics, AI-assisted search and recommendations, and asynchronous processing. Built with Next.js, PostgreSQL, Claude API, and background workers for long-running customer-facing workflows.
 
 - **Mellow:** Personalized iOS meal-planning system that turns dietary preferences, health signals, calendar context, and repeatable eating patterns into an adaptive weekly plan and consolidated grocery workflow. Integrates Apple Health, Calendar, Firebase, and native iOS notifications to continuously reconcile recommendations with the user’s schedule, shopping state, and routine.
 
