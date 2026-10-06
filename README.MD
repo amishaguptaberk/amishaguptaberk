@@ -6,13 +6,13 @@ Currently building AI infrastructure at an early-stage startup. I work across th
 
 ## Selected work
 
-- Sonora: Multi-tenant AI operations platform for restaurants that turns customer conversations into executable workflows across 9+ service providers spanning telephony, speech, POS, payments, reservations, and messaging. The system handles intent capture, ordering, reservation changes, catering leads, follow-up, and staff escalation, with persistent state, validated tool execution, retries, fallbacks, and idempotent writes to keep workflows reliable across external systems.
+- **Sonora:** Multi-tenant AI operations platform for restaurants that coordinates voice, ordering, payments, reservations, and messaging across 9+ external providers. Uses Deepgram, ElevenLabs, and POS/restaurant APIs with persistent workflow state, idempotent writes, retries, and human escalation for multi-step customer operations.
 
-- Echo: Caller-intelligence and evaluation platform for production conversations. The processing pipeline handles VAD, transcription, diarization, injection detection, PII redaction, summarization, dimension-level QA scoring, supervisor routing, reporting, and auditability. Echo also includes an Evaluation Lab for golden-set regression testing and controlled comparisons across prompts, models, QA configurations, and pipeline versions, with independent grading and failure analysis to measure how changes affect downstream call quality.
+- **Echo:** Caller-intelligence and evaluation platform for production conversations, covering transcription, diarization, PII redaction, summarization, dimension-level QA scoring, routing, and audit trails. Uses PostgreSQL and Redis for durable state and caching, with golden-set regression testing and versioned model/prompt comparisons across the pipeline.
 
-- Surface Hub: B2B growth platform built at Surface Labs (YC ’23) combining LinkedIn analytics, AI-assisted search and recommendations, and asynchronous background workflows. The system used Next.js, PostgreSQL, Claude API, and worker-based processing to support long-running AI tasks, evaluation, and customer-facing product workflows.
+- **Surface Hub:** B2B growth platform built at Surface Labs (YC ’23) with LinkedIn analytics, AI-assisted search and recommendations, and asynchronous processing. Built with Next.js, PostgreSQL, Claude API, and background workers for long-running customer-facing workflows.
 
-- Mellow: iOS meal-planning and grocery coordination app built around consistency rather than daily novelty. Mellow models repeatable meal patterns, generates weekly plans, consolidates overlapping ingredients into normalized grocery requirements, and keeps meal planning, shopping state, and routine insights synchronized as preferences and schedules change. The app integrates Firebase for backend services and push notifications, Apple Health for wellness context, and native iOS capabilities to support personalized planning, reminders, and routine-aware adjustments.
+- **Mellow:** iOS meal-planning system that converts routine preferences and weekly constraints into structured meal plans and normalized grocery requirements. Integrates Firebase, Apple Health, and native notifications to synchronize planning state, shopping progress, and routine-aware adjustments.
 
 ## More public code
 
