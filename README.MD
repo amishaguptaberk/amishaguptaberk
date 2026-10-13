@@ -12,7 +12,7 @@ Currently building AI infrastructure at an early-stage startup. I work across th
 
 - **Surface Hub:** B2B growth platform that helps companies identify potential customers, track LinkedIn engagement, and improve how their products are discovered online. Combines analytics, AI-powered search visibility, and personalized content recommendations to support customer acquisition. Built with Next.js, PostgreSQL, Claude API, and background workers for asynchronous processing.
 
-- **Mellow:** Personalized iOS meal-planning system that turns dietary preferences, health signals, calendar context, and repeatable eating patterns into an adaptive weekly plan and consolidated grocery workflow. Integrates Apple Health, Calendar, Firebase, and native iOS notifications to continuously reconcile recommendations with the user’s schedule, shopping state, and routine.
+- **Mellow:** Health-focused iOS app that helps people translate their nutritional needs and health goals into practical, sustainable eating routines. Generates personalized weekly meal plans, adapts to changing schedules and preferences, and consolidates ingredients into actionable grocery lists. Designed to evolve toward health-aware nutrition planning using Apple Health data and condition-specific dietary needs. Built with React Native, Firebase, and planned Apple Health and Calendar integrations.
 
 ## More public code
 
