@@ -6,7 +6,7 @@ Currently building AI infrastructure at an early-stage startup. I work across th
 
 ## Selected work
 
-- **Sonora:** Multi-tenant AI operations platform for restaurants that coordinates voice, ordering, payments, reservations, and messaging across 9+ external providers. Uses Deepgram, ElevenLabs, and POS/restaurant APIs with persistent workflow state, idempotent writes, retries, and human escalation for multi-step customer operations.
+- **Cognova:** Multi-tenant AI operations platform for restaurants that coordinates voice, ordering, payments, reservations, and messaging across 9+ external providers. Uses Deepgram, ElevenLabs, and POS/restaurant APIs with persistent workflow state, idempotent writes, retries, and human escalation for multi-step customer operations.
 
 - **Echo:** Caller-intelligence and evaluation platform that turns production conversations into structured QA signals and uses golden-set regression testing to optimize prompts, models, and scoring logic before deployment. Built around diarized transcription, PII-safe processing, dimension-level QA, versioned evaluation runs, PostgreSQL, and Redis to trace how pipeline changes affect call quality, routing, and failure modes.
 
